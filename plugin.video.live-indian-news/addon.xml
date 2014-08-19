@@ -2,8 +2,8 @@
 <addon
 id="plugin.video.live-indian-news"
 version="0.1"
-name="NDTV 24x7"
-provider-name="pkrish"
+name="Live Indian News"
+provider-name="Rakesh Singh"
 >
 	<requires> 
 		<import addon="xbmc.gui" version="2.11"/>
@@ -15,8 +15,8 @@ provider-name="pkrish"
 	</extension>
 
 	<extension point="xbmc.addon.metadata">
-		<summary>Watch live ndtv.com stream in XBMC</summary>
-		<description>Watch live ndtv.com stream in XBMC</description>
+		<summary>Watch live indian news channels in XBMC</summary>
+		<description>Watch live indian news channels in XBMC</description>
 		<platform>all</platform>
 	</extension>
 </addon>
